@@ -1,0 +1,22 @@
+body {
+   background-color:#ececec;
+   font-family: 'Lucida Sans';
+}
+
+h1{
+    color: #11212d;
+}
+
+h2{
+    color: #374254;
+}
+
+p{
+    color: #4a5c6a;
+    font-family: Cambria;
+}
+
+ul{
+    color: #11212d;
+    font-family: Cambria;
+}
